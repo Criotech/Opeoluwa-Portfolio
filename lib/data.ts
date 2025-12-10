@@ -35,14 +35,32 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Full Stack Developer",
+    title: "Senior Full Stack Developer",
     company: "DataServe AI. Inc. (Remote)",
     location: "United States",
     description:
-      "Design, develop and maintain a highly scalable, high-performing, and highly available production system. Write readable, efficient, and maintainable code including serverless functions.Create and maintain database schemas, and create effective Mongo database queries. Work together to find solutions to business issues with product managers and technologists. Ensures that all documentation and knowledge bases are kept up to date in order to foster good communication inside and outside of our organization. Build scalable products using Nodejs and Typescript stack and deploy them on the AWS ecosystem which includes services – ElasticBeanStalk, CloudWatch, Docker and MongoDB.",
+      "Contributed to the development of a real-time AI-powered fraud detection system to evaluate users and transactions, significantly reducing fraudulent activity and financial risk.Built a robust custom rules system for monitoring transaction and making decisions based on the predefined rules. Designed and developed a multi-app integrated ERP dashboard with role- and permission-based access, enabling unified management across business applications. Architected and launched a multi-tier, multi-wallet payment system for sending and receiving payments in Nigeria, improving transaction efficiency and accessibility. Built a multi-provider payment routing system that dynamically leverages multiple providers to guarantee 100% transaction uptime.",
 
     icon: React.createElement(LuGraduationCap),
-    date: "2023",
+    date: "2023 - Present",
+  },
+  {
+    title: "Senior Software Engineer - LLM Training (Google Gemini)",
+    company: "Turing",
+    location: "Remote",
+    description:
+      "Simulated engineering workflows for RLHF/SFT pipelines supporting LLM trainingContributed to advancements in dataset production, optimizing data variety and volume to meet the training needs of advanced models. Delivered prompt-level metadata to AI research teams for output tuning Promoted to a POD Lead where I orchestrated the training and onboarding of new engineers. Led and mentored software development teams across multiple projects from inception to delivery.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2024-2025",
+  },
+  {
+    title: "Full Stack Developer",
+    company: "Topcoder",
+    location: "Signapore . Remote",
+    description:
+      "Engineered responsive, scalable web applications using React, Next.js, TypeScript, and Ant Design, significantly improving user experience and system performance. Ensured quality and reliability through unit testing with Jest and React Testing Library, reducing production defects and improving application stability. Developed and maintained backend services with Express, streamlining workflows and optimizing system performance. Refined user stories and requirements in close collaboration with business teams, ensuring solutions aligned with end-user needs.",
+    icon: React.createElement(LuGraduationCap),
+    date: "2022 - 2023",
   },
   {
     title: "Mobile Developer (React Native)",
@@ -53,15 +71,7 @@ export const experiencesData = [
     icon: React.createElement(LuGraduationCap),
     date: "2021-2023",
   },
-  {
-    title: "Full Stack Developer",
-    company: "Johnson n Johnson Pharmarcy",
-    location: "Signapore . Remote",
-    description:
-      "I had the opportunity to work remotely and collaborate closely with different teams, UX teams, DevOps and security teams, and the Business team. My role involved building web applications and ensuring seamless integration between the frontend and backend systems. Here are some key accomplishments from my experience: • Built responsive and scalable web applications using React, Next.js, and Typescript (leveraging Antd framework). These applications delivered enhanced user experiences while maintaining high performance and scalability. • Ensured code quality and reliability by writing comprehensive unit tests using Jest and react-testing-library. These tests helped identify and fix issues early in the development cycle, resulting in robust and bug-free applications. • Developed, maintained, and utilized backend services in Express applications.",
-    icon: React.createElement(LuGraduationCap),
-    date: "2022 - 2023",
-  },
+
   {
     title: "Interview Question Curator",
     company: "Toggl Hire (Contract)",
