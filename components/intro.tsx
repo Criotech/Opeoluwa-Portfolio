@@ -63,10 +63,11 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold">Hello, I'm Opeoluwa Siyanbola.</span> I'm a{" "}
-        Full Stack Developer with 5 years of experience designing, developing,
-        testing, and maintaining web and mobile applications My focus is{" "}
+        Full Stack Developer with 6 years of experience building and scaling
+        full-stack products across fintech, AI and pharmaceutical industries. Specializing in{" "}
         <span className="underline">
-          Typescript, Node.Js, React.Js, React Native
+          full-stack development, backend development, and frontend development
+          and LLM trainning and integration
         </span>
         .
       </motion.h1>

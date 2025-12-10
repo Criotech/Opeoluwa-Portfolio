@@ -19,16 +19,18 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        I am experienced in web and mobile technologies with over 5 years building
-        standalone applications to enterprise scale applications. I am
-        Proficient in NodeJS, React and also providing technical/non-technical
-        solutions.
-      </p>
-
-      <p>
-        I am very Passionate about scalable product development, writing clean,
-        well-tested code and documented code and also following best practices
-        during development.
+        Senior Software Engineer with 6+ years of experience building and
+        scaling full-stack products across fintech, AI, pharmaceutical, content,
+        and sports industries. Specialized in React.js, React Native,
+        TypeScript, Redux, and React Query for building performant, user-centric
+        applications, with strong expertise in Tailwind CSS and shadcn/ui for
+        modern UI systems. Backend expertise includes Node.js, RESTful API
+        design, cloud-native architectures, and asynchronous processing. Highly
+        proficient in AWS, MongoDB, PostgreSQL, Redis, and CI/CD pipelines using
+        GitHub Actions. Consistently delivers business-critical systems for LLM
+        applications, personalization engines, and high-throughput financial
+        platforms while mentoring engineers and leading execution under tight
+        timelines.
       </p>
     </motion.section>
   );
